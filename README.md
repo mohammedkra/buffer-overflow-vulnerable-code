@@ -4,4 +4,9 @@ In order to win this game without even having a password entered correctly there
 
 
 1: password validation integer
+
+
+
+
+
 2: number of rounds that the user gets to guess the winning lottery number
